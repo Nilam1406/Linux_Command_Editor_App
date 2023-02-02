@@ -16,7 +16,7 @@ Through this app/editor we can run 80% of Linux Commands.
 https://user-images.githubusercontent.com/66832022/216252881-e90d63cd-f03b-48f7-a5ca-5763a2560825.mp4
 
 
-#Screenshots 
+##Screenshots 
 
 ![LT1](https://user-images.githubusercontent.com/66832022/216256193-f6744739-99d6-40a1-873a-d3badd4c9353.jpeg)
 
