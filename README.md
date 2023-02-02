@@ -16,6 +16,15 @@ Through this app/editor we can run 80% of Linux Commands.
 https://user-images.githubusercontent.com/66832022/216252881-e90d63cd-f03b-48f7-a5ca-5763a2560825.mp4
 
 
+#Screenshots 
+
+![LT1](https://user-images.githubusercontent.com/66832022/216256193-f6744739-99d6-40a1-873a-d3badd4c9353.jpeg)
+
+![LT2](https://user-images.githubusercontent.com/66832022/216256216-4067b68e-c03b-447a-a322-7cb5fd9bda24.jpeg)
+
+![LT3](https://user-images.githubusercontent.com/66832022/216256287-7bbbee0b-f4cf-4522-81e7-7eb75411ae8e.jpeg)
+
+![LT4](https://user-images.githubusercontent.com/66832022/216256292-66ddcbbd-9067-45ed-aca0-20331f605a04.jpeg)
 
 This project is a starting point for a Flutter application.
 
