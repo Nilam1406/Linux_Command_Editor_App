@@ -1,4 +1,4 @@
-# cmdapp
+# Linux Command Editor App
 
 A new Flutter project.
 
